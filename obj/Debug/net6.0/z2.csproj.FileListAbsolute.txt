@@ -1,0 +1,15 @@
+/Users/admin/Desktop/dz/z2/bin/Debug/net6.0/z2
+/Users/admin/Desktop/dz/z2/bin/Debug/net6.0/z2.deps.json
+/Users/admin/Desktop/dz/z2/bin/Debug/net6.0/z2.runtimeconfig.json
+/Users/admin/Desktop/dz/z2/bin/Debug/net6.0/z2.dll
+/Users/admin/Desktop/dz/z2/bin/Debug/net6.0/z2.pdb
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.csproj.AssemblyReference.cache
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.AssemblyInfoInputs.cache
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.AssemblyInfo.cs
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.dll
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/refint/z2.dll
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.pdb
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/z2.genruntimeconfig.cache
+/Users/admin/Desktop/dz/z2/obj/Debug/net6.0/ref/z2.dll
